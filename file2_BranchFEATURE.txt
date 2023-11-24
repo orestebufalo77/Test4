@@ -1,0 +1,4 @@
+Console.Writeline(Hello)
+Console.Writeline(Hello)
+Console.Writeline(Hello)
+Console.WriteLine("Hello")
